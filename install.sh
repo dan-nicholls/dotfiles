@@ -5,6 +5,6 @@ sudo chsh -s /usr/bin/zsh
 
 # tmux Setup
 sudo apt install tmux
-git clone https://github.com/tmux-plugins/tpm ./.tmux/plugins/tpm
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 
